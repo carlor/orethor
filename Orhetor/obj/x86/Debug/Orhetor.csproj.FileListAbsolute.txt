@@ -1,0 +1,18 @@
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\bin\Debug\Orhetor.exe
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\bin\Debug\Orhetor.pdb
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\obj\x86\Debug\Orhetor.Form1.resources
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\obj\x86\Debug\Orhetor.Properties.Resources.resources
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\obj\x86\Debug\Orhetor.exe
+C:\Users\Nathan\AppData\Local\Temporary Projects\Orhetor\obj\x86\Debug\Orhetor.pdb
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Debug\Orhetor.exe
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Debug\Orhetor.pdb
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\bin\Debug\Orhetor.exe
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\bin\Debug\Orhetor.pdb
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Debug\Orhetor.Form1.resources
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Debug\Orhetor.Properties.Resources.resources
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Debug\GenerateResource.write.1.tlog

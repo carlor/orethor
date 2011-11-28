@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orhetor", "Orhetor\Orhetor.csproj", "{C96CC7A5-EADB-413B-9B3E-03B5C86D3DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C96CC7A5-EADB-413B-9B3E-03B5C86D3DE9}.Debug|x86.ActiveCfg = Debug|x86
+		{C96CC7A5-EADB-413B-9B3E-03B5C86D3DE9}.Debug|x86.Build.0 = Debug|x86
+		{C96CC7A5-EADB-413B-9B3E-03B5C86D3DE9}.Release|x86.ActiveCfg = Release|x86
+		{C96CC7A5-EADB-413B-9B3E-03B5C86D3DE9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

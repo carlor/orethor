@@ -1,0 +1,14 @@
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\bin\Release\Orhetor.exe.manifest
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\bin\Release\Orhetor.application
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\bin\Release\Orhetor.exe
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\bin\Release\Orhetor.pdb
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\Orhetor.Form1.resources
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\Orhetor.Properties.Resources.resources
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\Orhetor.exe.manifest
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\Orhetor.application
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\Orhetor.exe
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\obj\x86\Release\Orhetor.pdb
+C:\Users\Nathan\documents\visual studio 2010\Projects\Orhetor\Orhetor\bin\Release\Orhetor.exe.config
