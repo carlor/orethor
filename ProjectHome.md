@@ -1,0 +1,1 @@
+Made with MS Visual C# Express, has basic functionality in speaking plain text with the built in TTS.
